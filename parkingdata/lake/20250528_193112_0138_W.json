@@ -1,0 +1,570 @@
+{
+  "version": "5.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2922.1111111111113,
+          314.44444444444446
+        ],
+        [
+          2712.1111111111113,
+          408.88888888888886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2923.2222222222226,
+          414.44444444444446
+        ],
+        [
+          2713.2222222222226,
+          506.66666666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2923.2222222222226,
+          511.1111111111111
+        ],
+        [
+          2714.3333333333335,
+          603.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2924.3333333333335,
+          608.8888888888889
+        ],
+        [
+          2714.3333333333335,
+          698.8888888888889
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2923.2222222222226,
+          705.5555555555555
+        ],
+        [
+          2716.5555555555557,
+          795.5555555555555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2924.3333333333335,
+          800.0
+        ],
+        [
+          2716.5555555555557,
+          890.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2925.444444444445,
+          897.7777777777777
+        ],
+        [
+          2717.666666666667,
+          984.4444444444445
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2927.666666666667,
+          993.3333333333333
+        ],
+        [
+          2718.777777777778,
+          1081.111111111111
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2927.666666666667,
+          1086.6666666666667
+        ],
+        [
+          2718.777777777778,
+          1176.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2928.777777777778,
+          1244.4444444444443
+        ],
+        [
+          2846.5555555555557,
+          1396.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2835.444444444445,
+          1245.5555555555554
+        ],
+        [
+          2754.3333333333335,
+          1396.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2663.2222222222226,
+          1244.4444444444443
+        ],
+        [
+          2746.5555555555557,
+          1397.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2655.444444444445,
+          1397.7777777777778
+        ],
+        [
+          2571.0,
+          1245.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2565.444444444445,
+          1397.7777777777778
+        ],
+        [
+          2484.3333333333335,
+          1246.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3198.777777777778,
+          2034.4444444444443
+        ],
+        [
+          3266.5555555555557,
+          1815.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3197.666666666667,
+          1807.7777777777778
+        ],
+        [
+          3265.444444444445,
+          1591.111111111111
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3199.888888888889,
+          1355.5555555555554
+        ],
+        [
+          3267.666666666667,
+          1132.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3196.5555555555557,
+          1125.5555555555554
+        ],
+        [
+          3266.5555555555557,
+          904.4444444444445
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3267.666666666667,
+          673.3333333333334
+        ],
+        [
+          3197.666666666667,
+          897.7777777777777
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3267.666666666667,
+          438.88888888888886
+        ],
+        [
+          3196.5555555555557,
+          665.5555555555555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3267.666666666667,
+          432.22222222222223
+        ],
+        [
+          3198.777777777778,
+          242.22222222222223
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3266.5555555555557,
+          1364.4444444444443
+        ],
+        [
+          3195.444444444445,
+          1582.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2931.0,
+          1635.5555555555554
+        ],
+        [
+          2854.3333333333335,
+          1813.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2846.5555555555557,
+          1812.2222222222222
+        ],
+        [
+          2761.0,
+          1635.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2756.5555555555557,
+          1811.111111111111
+        ],
+        [
+          2671.0,
+          1637.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2667.666666666667,
+          1811.111111111111
+        ],
+        [
+          2578.777777777778,
+          1637.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2576.5555555555557,
+          1812.2222222222222
+        ],
+        [
+          2492.1111111111113,
+          1637.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2685.444444444445,
+          1937.7777777777778
+        ],
+        [
+          2502.1111111111113,
+          1848.888888888889
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          2506.5555555555557,
+          1944.4444444444443
+        ],
+        [
+          2688.777777777778,
+          2028.888888888889
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "parkingbox",
+      "points": [
+        [
+          3197.666666666667,
+          2042.2222222222222
+        ],
+        [
+          3269.888888888889,
+          2041.111111111111
+        ],
+        [
+          3302.1111111111113,
+          2148.8888888888887
+        ],
+        [
+          3329.888888888889,
+          2206.6666666666665
+        ],
+        [
+          3272.1111111111113,
+          2240.0
+        ],
+        [
+          3227.666666666667,
+          2160.0
+        ],
+        [
+          3203.222222222222,
+          2076.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\RGBZ\\20250528_193112_0138_W.jpg",
+  "imageData": null,
+  "imageHeight": 3078,
+  "imageWidth": 5472
+}
